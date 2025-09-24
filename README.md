@@ -24,8 +24,11 @@ Analyzing fictional data from an online learning platform offering courses in va
 - * overview of courses and sales analysis.
     -<img width="1590" height="730" alt="Image" src="https://github.com/user-attachments/assets/163798f5-9519-4243-907f-9b15d59b3606" />
   * Sales Analysis showing the revenue performance of different courses and their trend.
+    - <img width="1566" height="746" alt="Image" src="https://github.com/user-attachments/assets/52128dcb-3e73-4301-9545-18d56b0fd823" />
   * Course Analysis showing course-wise performance, rating and trends by country and sales.
+    - <img width="1580" height="768" alt="Image" src="https://github.com/user-attachments/assets/8e0a9ac7-38ef-424c-b552-a413eadb1579" />
   * Summary showing the KPI's and conclusions.
+    - <img width="1586" height="754" alt="Image" src="https://github.com/user-attachments/assets/8b41f1dd-9777-42f6-83a0-a9794f7cdb9d" />
    
 - Visual filters used include:
   * course category
