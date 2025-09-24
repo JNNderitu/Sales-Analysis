@@ -28,3 +28,5 @@ Analyzing fictional data from an online learning platform offering courses in va
   * instructor
   * country
   * payment method
+ 
+ - sample Sales Analysis using excel : [Sales Analysis (Excel).xlsx](https://github.com/user-attachments/files/22514175/Sales.Analysis.Excel.xlsx)
