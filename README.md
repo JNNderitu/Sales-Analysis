@@ -19,11 +19,14 @@ Analyzing fictional data from an online learning platform offering courses in va
 - step 1 : Load data into Power BI.
 - step 2 : Open power query editor & in view tab under the data preview section, check "column distribution", "column quality" & "column profile" options.
 - step 3 : Also since by default, profile will open only top 1000 rows, select "column profiling based on entire dataset".
+- 
 - step 4 : The dashboard contains 3 pages;
 - * overview of courses and sales analysis.
+    -<img width="1590" height="730" alt="Image" src="https://github.com/user-attachments/assets/163798f5-9519-4243-907f-9b15d59b3606" />
   * Sales Analysis showing the revenue performance of different courses and their trend.
   * Course Analysis showing course-wise performance, rating and trends by country and sales.
   * Summary showing the KPI's and conclusions.
+   
 - Visual filters used include:
   * course category
   * course name
