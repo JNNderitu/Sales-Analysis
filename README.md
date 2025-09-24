@@ -22,4 +22,8 @@ Analyzing fictional data from an online learning platform offering courses in va
   * Course Analysis showing course-wise performance, rating and trends by country and sales.
   * Summary showing the KPI's and conclusions.
 - Visual filters used include:
-  * course category, course name, instructor, country and payment method.
+  * course category
+  * course name
+  * instructor
+  * country
+  * payment method
