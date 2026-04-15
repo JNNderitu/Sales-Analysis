@@ -1,0 +1,301 @@
+Order Date,Course Name,Category,Instructor,Country,Price,Quantity,Total,Payment Method,Rating
+4/15/2025,Python Basics,Programming,Carla,Kenya,33.99,1,33.99,Stripe,4.3
+1/14/2025,Graphic Design,Design,Carla,Philippines,24.37,2,48.74,Mpesa,4.6
+1/23/2025,Data Visualization,Analytics,Alice,UK,89.08,2,178.16,Credit Card,3.5
+1/24/2025,Public Speaking,Communication,Alice,Kenya,70.04,1,70.04,Credit Card,3.9
+3/9/2025,Project Management,Business,Emma,UK,52.24,1,52.24,Mpesa,4
+6/5/2025,Public Speaking,Communication,Brian,Philippines,67.49,3,202.47,Mpesa,3.5
+6/13/2025,Project Management,Business,Felix,Nigeria,81.68,3,245.04,Stripe,4.3
+1/9/2025,Project Management,Business,Carla,Nigeria,86.26,3,258.78,PayPal,4.6
+3/9/2025,Excel for Beginners,Productivity,David,South Africa,25.31,2,50.62,Stripe,4.8
+3/28/2025,Public Speaking,Communication,David,Nigeria,11.47,3,34.41,Credit Card,4.7
+2/28/2025,Graphic Design,Design,Alice,India,46.51,3,139.53,Credit Card,4.5
+3/1/2025,Public Speaking,Communication,Felix,South Africa,58.98,1,58.98,PayPal,5
+4/29/2025,Public Speaking,Communication,David,Philippines,13.97,1,13.97,Stripe,3.8
+3/11/2025,Digital Marketing,Marketing,Carla,South Africa,95.92,3,287.76,Stripe,3.5
+1/23/2025,Excel for Beginners,Productivity,Emma,India,17.46,1,17.46,Stripe,3.6
+3/9/2025,Project Management,Business,Alice,India,96.02,1,96.02,Mpesa,4.1
+2/11/2025,Python Basics,Programming,Felix,South Africa,89.55,2,179.1,Credit Card,4.6
+3/2/2025,Data Visualization,Analytics,Carla,South Africa,76.97,3,230.91,Credit Card,4.6
+2/7/2025,Project Management,Business,Emma,India,92.23,2,184.46,Stripe,4.1
+6/11/2025,Graphic Design,Design,Emma,Kenya,25.01,3,75.03,Stripe,4.1
+1/6/2025,Data Visualization,Analytics,David,South Africa,41.46,3,124.38,Stripe,4
+3/25/2025,Python Basics,Programming,Brian,Nigeria,88.43,3,265.29,PayPal,4
+4/5/2025,Excel for Beginners,Productivity,Emma,South Africa,30.24,3,90.72,Mpesa,3.6
+3/9/2025,SQL Essentials,Programming,Brian,India,45.84,3,137.52,Credit Card,4.9
+3/10/2025,SQL Essentials,Programming,Alice,USA,60.82,1,60.82,Mpesa,3.6
+5/4/2025,Data Visualization,Analytics,Emma,USA,54.31,2,108.62,Credit Card,3.9
+2/27/2025,Public Speaking,Communication,Carla,UK,85.63,1,85.63,Credit Card,4.8
+5/30/2025,Public Speaking,Communication,Carla,South Africa,21.01,1,21.01,Mpesa,4.8
+4/18/2025,Graphic Design,Design,Felix,Philippines,38.4,1,38.4,Stripe,4
+1/16/2025,SQL Essentials,Programming,Brian,UK,85.75,2,171.5,Mpesa,4.7
+4/5/2025,Data Visualization,Analytics,Emma,UK,16.22,2,32.44,Credit Card,4.9
+1/14/2025,Graphic Design,Design,Alice,UK,62.74,2,125.48,Credit Card,4.2
+4/25/2025,Graphic Design,Design,Brian,South Africa,33.93,2,67.86,Mpesa,3.9
+3/12/2025,Public Speaking,Communication,Emma,Nigeria,40.35,1,40.35,PayPal,3.7
+2/3/2025,Project Management,Business,Felix,UK,52.96,1,52.96,Stripe,5
+4/5/2025,Data Visualization,Analytics,Carla,Philippines,90.24,1,90.24,Credit Card,4.2
+1/4/2025,Digital Marketing,Marketing,Felix,Nigeria,38.86,2,77.72,PayPal,4.5
+2/13/2025,Excel for Beginners,Productivity,Carla,India,99.59,2,199.18,Stripe,3.6
+2/12/2025,Python Basics,Programming,David,South Africa,27.84,2,55.68,PayPal,4.6
+4/30/2025,SQL Essentials,Programming,Carla,UK,30.17,3,90.51,Credit Card,3.7
+1/18/2025,Digital Marketing,Marketing,Brian,Nigeria,67.19,2,134.38,Stripe,4.7
+5/26/2025,Public Speaking,Communication,Alice,Kenya,48.94,3,146.82,Stripe,4.3
+2/19/2025,Data Visualization,Analytics,David,USA,93.66,1,93.66,Credit Card,3.9
+1/7/2025,SQL Essentials,Programming,Alice,UK,10.99,3,32.97,Mpesa,4.3
+4/22/2025,Python Basics,Programming,Brian,South Africa,72.89,1,72.89,Mpesa,3.7
+1/7/2025,Graphic Design,Design,Brian,Nigeria,77.38,1,77.38,Stripe,3.8
+4/22/2025,SQL Essentials,Programming,Emma,South Africa,45.16,1,45.16,Stripe,3.6
+2/5/2025,Public Speaking,Communication,Alice,India,52.81,3,158.43,Credit Card,3.7
+6/7/2025,Public Speaking,Communication,Carla,Nigeria,11.57,3,34.71,Mpesa,3.9
+1/28/2025,SQL Essentials,Programming,David,Kenya,55.77,1,55.77,Mpesa,4.6
+4/18/2025,SQL Essentials,Programming,David,USA,21.35,2,42.7,PayPal,4.8
+1/23/2025,Python Basics,Programming,Brian,Philippines,39.79,1,39.79,PayPal,3.8
+4/14/2025,Project Management,Business,Brian,South Africa,15.37,1,15.37,Credit Card,4.2
+1/11/2025,Excel for Beginners,Productivity,Brian,South Africa,42.3,1,42.3,PayPal,3.9
+2/6/2025,Project Management,Business,Carla,South Africa,18.05,1,18.05,Mpesa,4
+2/28/2025,Project Management,Business,Carla,Philippines,83.32,1,83.32,Credit Card,3.7
+2/2/2025,SQL Essentials,Programming,Carla,USA,60.16,1,60.16,Mpesa,4.9
+2/3/2025,Graphic Design,Design,Carla,South Africa,86.19,1,86.19,Mpesa,4
+1/1/2025,Python Basics,Programming,Carla,Nigeria,68.19,1,68.19,Stripe,4.6
+1/27/2025,Graphic Design,Design,David,Philippines,76.01,3,228.03,PayPal,4.1
+4/2/2025,Excel for Beginners,Productivity,Brian,USA,48.46,2,96.92,Mpesa,4.5
+3/8/2025,Data Visualization,Analytics,David,Kenya,75.58,3,226.74,PayPal,4.7
+2/4/2025,Graphic Design,Design,Brian,Kenya,99.99,3,299.97,Credit Card,3.9
+3/7/2025,Excel for Beginners,Productivity,Carla,Kenya,42.5,2,85,Stripe,3.6
+5/22/2025,Digital Marketing,Marketing,Emma,Philippines,87.77,3,263.31,Credit Card,5
+6/13/2025,Graphic Design,Design,Carla,Philippines,87.98,3,263.94,Mpesa,4.2
+1/29/2025,SQL Essentials,Programming,Alice,Kenya,65.74,2,131.48,Stripe,4.7
+2/3/2025,Graphic Design,Design,Felix,USA,44.87,2,89.74,PayPal,3.9
+1/22/2025,Python Basics,Programming,David,USA,25.72,2,51.44,Stripe,3.8
+1/7/2025,Project Management,Business,Carla,Kenya,20.98,3,62.94,Stripe,3.9
+5/20/2025,Python Basics,Programming,Felix,South Africa,74.29,2,148.58,Mpesa,4.4
+2/7/2025,Graphic Design,Design,Alice,South Africa,37.73,1,37.73,Stripe,3.8
+2/9/2025,Python Basics,Programming,David,Kenya,25.31,1,25.31,PayPal,4.8
+2/18/2025,Excel for Beginners,Productivity,David,Nigeria,46.06,3,138.18,Stripe,4.6
+2/25/2025,Graphic Design,Design,Alice,Philippines,18.07,1,18.07,Mpesa,4.6
+2/9/2025,SQL Essentials,Programming,Felix,Kenya,86.98,3,260.94,Credit Card,5
+5/1/2025,Python Basics,Programming,David,Philippines,65.37,2,130.74,PayPal,4.5
+6/24/2025,Project Management,Business,David,South Africa,19.35,1,19.35,PayPal,3.7
+5/30/2025,Data Visualization,Analytics,Felix,South Africa,37.18,3,111.54,Stripe,4.6
+2/17/2025,Digital Marketing,Marketing,David,Philippines,58.02,3,174.06,Credit Card,5
+2/6/2025,Python Basics,Programming,Emma,Nigeria,56.78,3,170.34,Credit Card,4.2
+5/22/2025,SQL Essentials,Programming,Felix,Philippines,53.15,2,106.3,Mpesa,4.7
+3/14/2025,Public Speaking,Communication,Carla,South Africa,85.01,3,255.03,Mpesa,3.8
+5/30/2025,Python Basics,Programming,Carla,Kenya,18.71,2,37.42,Stripe,4.5
+1/19/2025,Excel for Beginners,Productivity,Felix,Nigeria,30.84,2,61.68,PayPal,4.3
+3/1/2025,Excel for Beginners,Productivity,David,Nigeria,89.16,3,267.48,Stripe,4
+3/28/2025,Project Management,Business,Felix,India,70.85,1,70.85,PayPal,3.7
+2/6/2025,Python Basics,Programming,Felix,Nigeria,43.21,1,43.21,PayPal,3.7
+4/13/2025,Data Visualization,Analytics,Felix,South Africa,76.99,1,76.99,PayPal,4.3
+6/21/2025,Data Visualization,Analytics,David,Nigeria,10.47,1,10.47,Mpesa,4
+4/20/2025,Public Speaking,Communication,Brian,Kenya,77.19,2,154.38,Stripe,4
+1/23/2025,Project Management,Business,David,South Africa,98.23,2,196.46,Stripe,3.5
+4/4/2025,Python Basics,Programming,Felix,India,38.83,1,38.83,Stripe,4.6
+1/9/2025,Graphic Design,Design,Felix,USA,26.62,3,79.86,Stripe,3.8
+1/4/2025,Public Speaking,Communication,David,South Africa,41.34,3,124.02,PayPal,3.9
+6/22/2025,Graphic Design,Design,Emma,India,16.43,1,16.43,Credit Card,3.7
+6/3/2025,Data Visualization,Analytics,Emma,Kenya,53.75,2,107.5,Stripe,4.6
+3/31/2025,Excel for Beginners,Productivity,Brian,USA,30.6,3,91.8,Stripe,4.6
+4/2/2025,Excel for Beginners,Productivity,David,Kenya,55.87,2,111.74,Credit Card,3.8
+4/5/2025,Excel for Beginners,Productivity,Felix,Kenya,25.74,1,25.74,Credit Card,4.1
+4/25/2025,Public Speaking,Communication,Felix,UK,74.32,2,148.64,Credit Card,3.6
+4/7/2025,Digital Marketing,Marketing,Emma,UK,84.99,3,254.97,Mpesa,4.1
+2/17/2025,Excel for Beginners,Productivity,Carla,Nigeria,20.9,2,41.8,Stripe,4.3
+3/15/2025,Python Basics,Programming,Brian,Philippines,38.45,2,76.9,PayPal,4
+5/17/2025,Public Speaking,Communication,Carla,USA,77.87,1,77.87,Stripe,4.8
+6/29/2025,SQL Essentials,Programming,Carla,USA,52.83,1,52.83,Mpesa,4.9
+5/4/2025,Data Visualization,Analytics,Brian,UK,81,2,162,Stripe,4.2
+3/17/2025,Digital Marketing,Marketing,David,South Africa,17.14,2,34.28,Stripe,5
+5/25/2025,Graphic Design,Design,David,Nigeria,65.14,1,65.14,PayPal,4.7
+5/11/2025,Data Visualization,Analytics,Felix,UK,49.97,3,149.91,Mpesa,4.4
+3/2/2025,Digital Marketing,Marketing,Brian,Nigeria,91.72,2,183.44,Credit Card,4.4
+6/27/2025,Excel for Beginners,Productivity,Carla,UK,66.94,1,66.94,PayPal,4
+3/19/2025,Data Visualization,Analytics,Brian,Philippines,47.44,1,47.44,Stripe,3.9
+2/20/2025,SQL Essentials,Programming,Emma,Philippines,36.7,3,110.1,Credit Card,4.6
+4/25/2025,Digital Marketing,Marketing,Brian,Nigeria,12.32,1,12.32,Mpesa,4.4
+1/26/2025,Data Visualization,Analytics,Carla,Kenya,31.9,2,63.8,PayPal,3.6
+1/25/2025,Public Speaking,Communication,David,USA,98.3,3,294.9,Credit Card,4.4
+4/17/2025,SQL Essentials,Programming,Felix,Kenya,90.18,1,90.18,Mpesa,3.8
+4/13/2025,Data Visualization,Analytics,Emma,India,96.14,3,288.42,Stripe,4
+2/10/2025,Project Management,Business,Felix,Nigeria,92.3,1,92.3,PayPal,3.8
+6/23/2025,Public Speaking,Communication,Emma,USA,62.88,1,62.88,PayPal,4.3
+1/31/2025,SQL Essentials,Programming,David,South Africa,18.5,3,55.5,PayPal,4.6
+6/10/2025,Public Speaking,Communication,Felix,Philippines,93.33,2,186.66,PayPal,4.3
+1/20/2025,SQL Essentials,Programming,Emma,UK,81.15,2,162.3,Mpesa,3.9
+2/18/2025,Data Visualization,Analytics,Emma,USA,10.8,3,32.4,Credit Card,4.1
+2/17/2025,Digital Marketing,Marketing,David,Kenya,51.84,3,155.52,Credit Card,4.2
+4/26/2025,Digital Marketing,Marketing,Alice,Philippines,67.34,1,67.34,Mpesa,4
+4/30/2025,Public Speaking,Communication,Felix,South Africa,86.56,1,86.56,Stripe,4.2
+2/1/2025,Graphic Design,Design,Carla,Philippines,30.77,2,61.54,Mpesa,3.9
+6/14/2025,Excel for Beginners,Productivity,Alice,Kenya,74.23,2,148.46,Stripe,4.2
+2/15/2025,Data Visualization,Analytics,Brian,USA,68.38,2,136.76,PayPal,4.6
+3/4/2025,Data Visualization,Analytics,Felix,Nigeria,76.31,2,152.62,Mpesa,4.1
+4/12/2025,Digital Marketing,Marketing,Emma,India,58.11,2,116.22,Credit Card,4.6
+6/22/2025,SQL Essentials,Programming,David,USA,63.8,1,63.8,Mpesa,4.2
+6/17/2025,Graphic Design,Design,Felix,Kenya,51.96,2,103.92,Credit Card,3.9
+3/11/2025,Digital Marketing,Marketing,Brian,Philippines,26.41,1,26.41,PayPal,3.9
+3/12/2025,Data Visualization,Analytics,Brian,South Africa,80.49,3,241.47,Stripe,3.6
+6/27/2025,Project Management,Business,Carla,Philippines,69.45,1,69.45,Credit Card,3.8
+1/24/2025,Public Speaking,Communication,Felix,India,91.77,1,91.77,Stripe,3.9
+5/4/2025,Public Speaking,Communication,Emma,South Africa,65.72,1,65.72,PayPal,3.7
+5/13/2025,Project Management,Business,Brian,Kenya,54.49,3,163.47,Mpesa,5
+1/6/2025,Data Visualization,Analytics,Brian,USA,71.97,1,71.97,Credit Card,4.3
+5/8/2025,Public Speaking,Communication,Emma,South Africa,36.2,1,36.2,Mpesa,4.7
+2/24/2025,SQL Essentials,Programming,Emma,Nigeria,84.39,1,84.39,PayPal,4.4
+5/1/2025,Digital Marketing,Marketing,Carla,Philippines,35.82,3,107.46,Stripe,4
+4/6/2025,SQL Essentials,Programming,Brian,Kenya,67.05,2,134.1,Credit Card,4.4
+1/6/2025,Python Basics,Programming,Felix,Philippines,43.29,3,129.87,Credit Card,4.5
+3/28/2025,Project Management,Business,Felix,Philippines,69.02,1,69.02,PayPal,4.7
+3/4/2025,Digital Marketing,Marketing,Felix,UK,49.85,3,149.55,Mpesa,3.8
+5/30/2025,Graphic Design,Design,Carla,UK,73.13,3,219.39,Mpesa,4.9
+5/30/2025,Public Speaking,Communication,Carla,Nigeria,43.04,2,86.08,Stripe,4.3
+4/22/2025,Data Visualization,Analytics,Brian,South Africa,76.63,3,229.89,Mpesa,4.1
+2/23/2025,Public Speaking,Communication,Felix,USA,39.57,1,39.57,PayPal,3.8
+4/22/2025,Data Visualization,Analytics,Carla,USA,22.31,3,66.93,Stripe,4.1
+6/12/2025,SQL Essentials,Programming,Alice,Kenya,63.33,3,189.99,PayPal,4.9
+5/8/2025,Data Visualization,Analytics,Brian,Kenya,40.72,1,40.72,Stripe,4.1
+6/16/2025,Excel for Beginners,Productivity,Emma,India,79.71,3,239.13,PayPal,4.8
+2/27/2025,Project Management,Business,Brian,India,42.2,3,126.6,Credit Card,3.8
+4/28/2025,Project Management,Business,Felix,India,98.48,3,295.44,Credit Card,3.5
+1/15/2025,Python Basics,Programming,Emma,South Africa,46.13,1,46.13,Credit Card,3.7
+2/18/2025,SQL Essentials,Programming,Carla,USA,77.64,2,155.28,Credit Card,3.6
+5/22/2025,SQL Essentials,Programming,David,India,22.41,1,22.41,Stripe,4.6
+1/28/2025,SQL Essentials,Programming,Alice,UK,51.52,3,154.56,Mpesa,4.8
+5/30/2025,Excel for Beginners,Productivity,Brian,UK,58.01,3,174.03,PayPal,3.9
+3/10/2025,SQL Essentials,Programming,Brian,Kenya,79.03,2,158.06,Credit Card,3.9
+4/6/2025,Python Basics,Programming,Felix,India,92.57,1,92.57,PayPal,4.3
+1/17/2025,Digital Marketing,Marketing,Alice,Philippines,73.21,3,219.63,Mpesa,3.6
+3/27/2025,Project Management,Business,Brian,India,92.29,3,276.87,PayPal,4.3
+1/15/2025,Public Speaking,Communication,Alice,Kenya,85.28,1,85.28,Stripe,4.1
+6/19/2025,Python Basics,Programming,Emma,South Africa,28.33,2,56.66,PayPal,3.7
+5/29/2025,Data Visualization,Analytics,Emma,Philippines,67.69,2,135.38,Mpesa,3.6
+1/24/2025,Public Speaking,Communication,Alice,Philippines,34.7,3,104.1,Credit Card,3.9
+2/2/2025,Public Speaking,Communication,Carla,Kenya,51.81,1,51.81,Mpesa,4.3
+6/14/2025,Graphic Design,Design,David,South Africa,88.28,3,264.84,Mpesa,3.8
+3/22/2025,SQL Essentials,Programming,Felix,UK,16.48,2,32.96,PayPal,4.2
+3/21/2025,SQL Essentials,Programming,Felix,UK,39.01,3,117.03,Mpesa,4.5
+1/28/2025,Python Basics,Programming,Felix,Nigeria,49.53,1,49.53,PayPal,4.2
+4/29/2025,Project Management,Business,Brian,South Africa,75.04,1,75.04,Mpesa,3.7
+6/6/2025,SQL Essentials,Programming,Alice,Kenya,96.65,3,289.95,Mpesa,4
+3/17/2025,Graphic Design,Design,Felix,UK,17.11,3,51.33,Credit Card,4.8
+6/11/2025,Project Management,Business,Carla,UK,13.14,1,13.14,Mpesa,4.2
+2/23/2025,SQL Essentials,Programming,David,Kenya,29.61,3,88.83,PayPal,4.3
+2/17/2025,Digital Marketing,Marketing,Brian,India,35.5,2,71,Mpesa,4.7
+4/25/2025,Project Management,Business,Felix,Philippines,77.7,1,77.7,Mpesa,4.3
+4/23/2025,Python Basics,Programming,Felix,USA,49.23,2,98.46,Mpesa,3.9
+4/24/2025,Python Basics,Programming,Felix,USA,30.31,1,30.31,Mpesa,3.9
+6/20/2025,Data Visualization,Analytics,David,Philippines,84.73,3,254.19,Credit Card,3.8
+5/22/2025,Public Speaking,Communication,Brian,Kenya,23.3,1,23.3,PayPal,4.9
+3/4/2025,Python Basics,Programming,Alice,Kenya,51.84,2,103.68,Mpesa,3.8
+1/7/2025,Project Management,Business,David,Kenya,86.05,3,258.15,Mpesa,3.8
+3/29/2025,Project Management,Business,Emma,South Africa,76.91,3,230.73,Credit Card,4.3
+2/15/2025,Data Visualization,Analytics,Brian,India,54.96,2,109.92,PayPal,4
+3/14/2025,Public Speaking,Communication,Emma,UK,85.34,1,85.34,PayPal,4.7
+1/20/2025,Public Speaking,Communication,Felix,India,90.08,2,180.16,Credit Card,3.8
+1/10/2025,Public Speaking,Communication,Felix,UK,78.83,3,236.49,Stripe,4.2
+5/26/2025,SQL Essentials,Programming,David,Kenya,59.65,2,119.3,Mpesa,3.7
+2/26/2025,SQL Essentials,Programming,Brian,Kenya,57.28,3,171.84,PayPal,3.8
+6/18/2025,Project Management,Business,Carla,Philippines,77.25,1,77.25,Credit Card,3.5
+1/21/2025,Digital Marketing,Marketing,David,South Africa,11.28,3,33.84,Stripe,4.1
+4/30/2025,Graphic Design,Design,Emma,India,98.91,2,197.82,Stripe,3.7
+6/22/2025,Data Visualization,Analytics,Alice,UK,17.86,1,17.86,Credit Card,4.6
+6/5/2025,Python Basics,Programming,David,USA,68.67,1,68.67,PayPal,4
+3/10/2025,Graphic Design,Design,Emma,Philippines,61.39,2,122.78,PayPal,4.3
+3/14/2025,Python Basics,Programming,Carla,India,45.03,3,135.09,Credit Card,4.3
+3/8/2025,Graphic Design,Design,Felix,Kenya,91.62,3,274.86,PayPal,3.6
+2/2/2025,Public Speaking,Communication,Emma,Kenya,35.56,2,71.12,Stripe,3.9
+2/25/2025,Data Visualization,Analytics,Emma,USA,94.1,2,188.2,Stripe,3.9
+6/8/2025,Data Visualization,Analytics,Carla,UK,54.95,2,109.9,Mpesa,4.3
+2/4/2025,Python Basics,Programming,Brian,UK,90.54,2,181.08,Mpesa,4.1
+1/12/2025,Graphic Design,Design,Emma,South Africa,20.43,3,61.29,PayPal,4.9
+5/12/2025,Graphic Design,Design,Carla,USA,73.18,3,219.54,PayPal,4.2
+5/7/2025,SQL Essentials,Programming,Carla,South Africa,78.75,2,157.5,Stripe,4.5
+1/15/2025,Public Speaking,Communication,David,Philippines,62.77,3,188.31,Credit Card,4.8
+3/16/2025,Data Visualization,Analytics,Emma,Philippines,96.15,2,192.3,Credit Card,3.9
+5/7/2025,Excel for Beginners,Productivity,Alice,USA,42.16,3,126.48,Mpesa,4.6
+4/22/2025,SQL Essentials,Programming,Carla,Kenya,19.97,3,59.91,Stripe,3.6
+5/12/2025,Public Speaking,Communication,Felix,USA,91.9,1,91.9,Credit Card,5
+6/15/2025,Data Visualization,Analytics,Brian,Kenya,72.03,3,216.09,PayPal,4.7
+5/18/2025,SQL Essentials,Programming,Carla,Kenya,75.58,1,75.58,Stripe,4.7
+1/13/2025,Graphic Design,Design,Brian,India,22.57,1,22.57,Credit Card,4.7
+1/18/2025,Excel for Beginners,Productivity,Felix,Nigeria,11.59,3,34.77,Credit Card,4
+4/27/2025,Public Speaking,Communication,Emma,UK,14.89,1,14.89,Credit Card,4.4
+2/18/2025,Python Basics,Programming,David,Philippines,28.83,1,28.83,Mpesa,4.4
+5/19/2025,Project Management,Business,David,Philippines,90.47,2,180.94,Mpesa,5
+3/2/2025,Data Visualization,Analytics,David,UK,19.98,2,39.96,Mpesa,4.3
+2/4/2025,Project Management,Business,Carla,India,41.86,3,125.58,Credit Card,4.6
+4/30/2025,Project Management,Business,Felix,Kenya,56.71,3,170.13,Mpesa,4
+5/22/2025,Public Speaking,Communication,Emma,Kenya,40.93,1,40.93,PayPal,4.1
+5/14/2025,Project Management,Business,Felix,UK,35.42,2,70.84,Stripe,4.8
+4/7/2025,Public Speaking,Communication,Carla,South Africa,17.26,2,34.52,PayPal,3.8
+5/22/2025,Excel for Beginners,Productivity,Brian,South Africa,40.72,3,122.16,Stripe,4.6
+3/27/2025,Public Speaking,Communication,Brian,UK,15.58,2,31.16,Credit Card,4
+3/25/2025,Project Management,Business,Emma,USA,26.57,2,53.14,PayPal,4.5
+5/26/2025,Excel for Beginners,Productivity,Felix,USA,16.38,2,32.76,PayPal,4.4
+2/24/2025,Project Management,Business,David,India,58.3,2,116.6,Mpesa,3.7
+6/22/2025,Project Management,Business,Carla,Nigeria,14.38,1,14.38,PayPal,4.4
+4/8/2025,Python Basics,Programming,Brian,USA,68.62,3,205.86,Credit Card,4.9
+3/16/2025,Graphic Design,Design,David,Kenya,14.86,3,44.58,PayPal,3.8
+4/2/2025,Digital Marketing,Marketing,Felix,India,62.04,2,124.08,Stripe,3.9
+4/19/2025,Excel for Beginners,Productivity,Alice,Philippines,36.68,1,36.68,Mpesa,4.1
+2/3/2025,Graphic Design,Design,Carla,UK,79.83,1,79.83,Mpesa,4
+3/7/2025,Project Management,Business,David,Nigeria,83.48,3,250.44,Mpesa,3.9
+3/3/2025,Graphic Design,Design,Felix,Nigeria,14.75,2,29.5,Credit Card,3.8
+6/14/2025,Public Speaking,Communication,Alice,USA,12.74,1,12.74,PayPal,3.8
+3/1/2025,Public Speaking,Communication,Brian,Kenya,58.22,3,174.66,Credit Card,3.5
+1/29/2025,Data Visualization,Analytics,Brian,South Africa,45.46,3,136.38,PayPal,4.4
+1/10/2025,Public Speaking,Communication,Brian,Philippines,90.48,2,180.96,Mpesa,4.8
+1/24/2025,SQL Essentials,Programming,Felix,South Africa,69.57,2,139.14,Stripe,4
+1/5/2025,Python Basics,Programming,Alice,South Africa,67.57,3,202.71,Mpesa,4.3
+5/3/2025,Public Speaking,Communication,Carla,Kenya,72.1,3,216.3,Mpesa,4.5
+3/3/2025,Python Basics,Programming,Carla,India,50.65,3,151.95,Mpesa,4.8
+1/6/2025,Python Basics,Programming,David,South Africa,98.11,2,196.22,Credit Card,4.2
+2/12/2025,Public Speaking,Communication,Felix,Nigeria,47.87,2,95.74,Mpesa,4.6
+3/27/2025,Public Speaking,Communication,Emma,India,43.55,3,130.65,Mpesa,4.8
+5/14/2025,Graphic Design,Design,Emma,India,34.73,3,104.19,Stripe,4.6
+1/8/2025,Data Visualization,Analytics,Emma,Nigeria,76.22,1,76.22,Mpesa,4.7
+1/21/2025,Public Speaking,Communication,Felix,India,36.87,3,110.61,Credit Card,3.9
+4/2/2025,Data Visualization,Analytics,Emma,India,10.41,2,20.82,Credit Card,4.3
+4/15/2025,Graphic Design,Design,Brian,Philippines,76.2,1,76.2,Stripe,4.5
+2/4/2025,Digital Marketing,Marketing,Brian,South Africa,61.6,2,123.2,Stripe,3.6
+1/1/2025,Graphic Design,Design,Alice,Philippines,52.57,2,105.14,Stripe,4.4
+6/15/2025,Public Speaking,Communication,Emma,USA,39.2,1,39.2,Mpesa,3.6
+4/22/2025,Digital Marketing,Marketing,Emma,South Africa,46.87,3,140.61,PayPal,3.9
+5/9/2025,Data Visualization,Analytics,Alice,India,97.1,2,194.2,Mpesa,3.8
+6/28/2025,Excel for Beginners,Productivity,Brian,UK,18.85,2,37.7,PayPal,4.9
+1/25/2025,Project Management,Business,Alice,UK,67.95,3,203.85,PayPal,5
+2/18/2025,Project Management,Business,Alice,Kenya,86.48,2,172.96,Mpesa,4.1
+4/28/2025,SQL Essentials,Programming,David,Philippines,53.75,3,161.25,Stripe,5
+4/22/2025,Project Management,Business,Felix,India,53.03,3,159.09,Stripe,4.2
+4/23/2025,SQL Essentials,Programming,Brian,South Africa,67.74,2,135.48,Stripe,3.9
+6/5/2025,Python Basics,Programming,David,Nigeria,56.26,2,112.52,Credit Card,4
+1/10/2025,Excel for Beginners,Productivity,Emma,India,14.58,3,43.74,Credit Card,4
+1/26/2025,SQL Essentials,Programming,Emma,Philippines,23.17,3,69.51,Credit Card,4.6
+6/11/2025,SQL Essentials,Programming,Felix,UK,17.74,2,35.48,Credit Card,4.7
+1/20/2025,Graphic Design,Design,David,USA,16.8,3,50.4,Credit Card,4.6
+3/10/2025,Data Visualization,Analytics,Felix,Kenya,87.11,1,87.11,PayPal,4
+1/24/2025,Digital Marketing,Marketing,David,Philippines,19.68,3,59.04,Mpesa,4.6
+4/22/2025,Project Management,Business,David,Nigeria,99.11,1,99.11,Credit Card,3.9
+3/14/2025,SQL Essentials,Programming,Emma,USA,16.76,3,50.28,Credit Card,4.1
+3/15/2025,Project Management,Business,Brian,UK,43.47,3,130.41,Mpesa,4.4
+3/8/2025,Public Speaking,Communication,Brian,UK,44.77,2,89.54,Mpesa,3.6
+3/11/2025,Graphic Design,Design,Felix,Nigeria,99.85,2,199.7,PayPal,3.9
+5/17/2025,Project Management,Business,Alice,USA,32.36,2,64.72,Mpesa,4.4
+5/8/2025,Public Speaking,Communication,Carla,India,35.06,2,70.12,Mpesa,4.2
+1/31/2025,Excel for Beginners,Productivity,Carla,Nigeria,69.6,1,69.6,PayPal,3.6
+4/18/2025,Data Visualization,Analytics,Brian,USA,16.68,3,50.04,Stripe,3.5
+3/25/2025,Public Speaking,Communication,Felix,South Africa,91.05,3,273.15,Mpesa,4.3
+4/1/2025,Python Basics,Programming,Felix,India,32.07,3,96.21,Credit Card,4.1
+5/8/2025,Digital Marketing,Marketing,Carla,USA,14.02,2,28.04,PayPal,3.7
+5/4/2025,Excel for Beginners,Productivity,Alice,UK,73.14,3,219.42,Mpesa,3.7
+2/28/2025,SQL Essentials,Programming,Emma,Philippines,67.62,3,202.86,Stripe,4.4
+1/4/2025,Python Basics,Programming,Emma,South Africa,95.73,3,287.19,PayPal,4.8
+1/8/2025,Project Management,Business,David,India,23.88,1,23.88,Mpesa,3.7
+3/4/2025,Graphic Design,Design,David,South Africa,47.56,3,142.68,PayPal,4.9
+1/27/2025,SQL Essentials,Programming,Carla,South Africa,84.47,2,168.94,Credit Card,3.6
+1/4/2025,Public Speaking,Communication,Carla,Nigeria,75.98,3,227.94,Credit Card,4.5
+4/13/2025,Project Management,Business,Felix,USA,34.21,1,34.21,Mpesa,3.6
+6/17/2025,Digital Marketing,Marketing,Alice,Philippines,80.52,2,161.04,Credit Card,4.8
+1/17/2025,SQL Essentials,Programming,Carla,USA,85.37,2,170.74,PayPal,4.4
+6/3/2025,SQL Essentials,Programming,Felix,Philippines,56.52,3,169.56,Stripe,4.6
